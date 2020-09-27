@@ -1,0 +1,24 @@
+{
+  "name": "gobarber",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "typeorm": "tsnd node_modules/typeorm/cli.js",
+    "postinstall": "cd ./packages/app-expo && expo-yarn-workspaces postinstall"
+  },
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "devDependencies": {
+    "@gobarber/eslint-config": "*",
+    "@types/jest": "^26.0.5",
+    "jest": "^26.1.0",
+    "ts-jest": "^26.1.3",
+    "typescript": "^3.9.7"
+  }
+}

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a46ac82f-67da-437b-a8b7-6a8edb929b3b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/app-expo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/app-expo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/app/android/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/packages/app/android/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/eslint-config/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/eslint-config/.eslintrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/server/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/server/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/server/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/server/src/routes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/server/src/server.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hn9ajCAQZZwluKZPOLW1JkhKzv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/packages/server/src/index.ts" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="C:\projects\personal\rockeatseat\youtube-monorepo\node_modules\eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="ts.external.directory.path" value="C:\projects\personal\rockeatseat\youtube-monorepo\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\projects\personal\rockeatseat\youtube-monorepo\packages\server\src" />
+      <recent name="$PROJECT_DIR$/packages/server/src" />
+      <recent name="$PROJECT_DIR$/packages/server" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/packages" />
+      <recent name="$PROJECT_DIR$/packages/server" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.Local Server Debug">
+    <configuration default="true" type="JavascriptDebugType" uri="http://localhost:3333">
+      <method v="2" />
+    </configuration>
+    <configuration name="localhost:3333" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:3333">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" path-to-js-file="src/index.ts" working-dir="$PROJECT_DIR$/packages/server">
+      <method v="2" />
+    </configuration>
+    <configuration name="Local Server Debug" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/packages/server/package.json" />
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.localhost:3333" />
+      <item itemvalue="npm.Local Server Debug" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a46ac82f-67da-437b-a8b7-6a8edb929b3b" name="Default Changelist" comment="" />
+      <created>1600636054687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600636054687</updated>
+      <workItem from="1600636055790" duration="7254000" />
+      <workItem from="1600715817156" duration="57000" />
+      <workItem from="1600738592185" duration="1024000" />
+      <workItem from="1601136653727" duration="725000" />
+      <workItem from="1601137527044" duration="15521000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="274" width="1088" height="545" key="#ESLint" timestamp="1601156102781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="447" y="274" key="#ESLint/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601156102781" />
+    <state x="2367" y="285" width="1088" height="545" key="#ESLint/1920.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1600638965503" />
+    <state x="414" y="175" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601139313406">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601139313406" />
+    <state x="724" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601157106044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="724" y="322" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601157106044" />
+    <state x="2649" y="303" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600647079243">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2649" y="303" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1600647079243" />
+    <state width="948" height="466" key="DebuggerActiveHint" timestamp="1601139612279">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="948" height="466" key="DebuggerActiveHint/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601139612279" />
+    <state x="779" y="300" width="424" height="491" key="FileChooserDialogImpl" timestamp="1601139282630">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="779" y="300" key="FileChooserDialogImpl/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601139282630" />
+    <state x="2699" y="312" width="424" height="491" key="FileChooserDialogImpl/1920.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1600715872441" />
+    <state width="1899" height="338" key="GridCell.Tab.0.bottom" timestamp="1601212735691">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="338" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601212735691" />
+    <state width="1899" height="338" key="GridCell.Tab.0.center" timestamp="1601212735690">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="338" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601212735690" />
+    <state width="1899" height="338" key="GridCell.Tab.0.left" timestamp="1601212735690">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="338" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601212735690" />
+    <state width="1899" height="338" key="GridCell.Tab.0.right" timestamp="1601212735691">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="338" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601212735691" />
+    <state width="1899" height="338" key="GridCell.Tab.1.bottom" timestamp="1601212735691">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="338" key="GridCell.Tab.1.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601212735691" />
+    <state width="1899" height="338" key="GridCell.Tab.1.center" timestamp="1601212735691">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="338" key="GridCell.Tab.1.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601212735691" />
+    <state width="1899" height="338" key="GridCell.Tab.1.left" timestamp="1601212735691">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="338" key="GridCell.Tab.1.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601212735691" />
+    <state width="1899" height="338" key="GridCell.Tab.1.right" timestamp="1601212735691">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="338" key="GridCell.Tab.1.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601212735691" />
+    <state width="1899" height="338" key="GridCell.Tab.2.bottom" timestamp="1601212735691">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="338" key="GridCell.Tab.2.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601212735691" />
+    <state width="1899" height="338" key="GridCell.Tab.2.center" timestamp="1601212735691">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="338" key="GridCell.Tab.2.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601212735691" />
+    <state width="1899" height="338" key="GridCell.Tab.2.left" timestamp="1601212735691">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="338" key="GridCell.Tab.2.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601212735691" />
+    <state width="1899" height="338" key="GridCell.Tab.2.right" timestamp="1601212735691">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="338" key="GridCell.Tab.2.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601212735691" />
+    <state width="1899" height="338" key="GridCell.Tab.3.bottom" timestamp="1601212735691">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="338" key="GridCell.Tab.3.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601212735691" />
+    <state width="1899" height="338" key="GridCell.Tab.3.center" timestamp="1601212735691">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="338" key="GridCell.Tab.3.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601212735691" />
+    <state width="1899" height="338" key="GridCell.Tab.3.left" timestamp="1601212735691">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="338" key="GridCell.Tab.3.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601212735691" />
+    <state width="1899" height="338" key="GridCell.Tab.3.right" timestamp="1601212735691">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="338" key="GridCell.Tab.3.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601212735691" />
+    <state x="485" y="182" width="1022" height="737" key="SettingsEditor" timestamp="1601145997163">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="485" y="182" key="SettingsEditor/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601145997163" />
+    <state x="2405" y="189" width="1022" height="737" key="SettingsEditor/1920.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1600637723338" />
+    <state x="659" y="250" width="672" height="653" key="search.everywhere.popup" timestamp="1601145933726">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="659" y="250" width="672" height="653" key="search.everywhere.popup/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601145933726" />
+    <state x="2579" y="260" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1600638682709" />
+  </component>
+</project>
